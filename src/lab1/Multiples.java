@@ -8,7 +8,7 @@ public class Multiples {
         int result = 0;
         for (int i = 1; i < n; i++) {
             if (i % a == 0 || i % b == 0) {
-                result += i;
+                result += 1;
             }
         }
         return result;
