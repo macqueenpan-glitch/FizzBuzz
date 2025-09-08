@@ -4,7 +4,7 @@ public class Reduce {
     public static void main(String[] args) {
         System.out.println(reduce(100));
     }
-    static int reduce(int n) {
+    public static int reduce(int n) {
         int steps = 0;
 
         while (n > 0) {
