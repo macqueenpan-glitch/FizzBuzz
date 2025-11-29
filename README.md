@@ -6,6 +6,7 @@ But first, let's get you your own copy of this codebase to work with.
 
 ## Task 0 Forking a public repository on GitHub
 <img width="270" height="328" alt="image" src="https://github.com/user-attachments/assets/fa7121f5-f824-49cc-a407-86558c9044bb" />
+<img width="97" height="102" alt="image" src="https://github.com/user-attachments/assets/9e07f055-143d-49d9-809f-2c00864019fa" />
 
 You should be currently reading this README on GitHub in the code repository:
 https://github.com/CSC207-2025F-UofT/FizzBuzz/
